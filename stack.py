@@ -17,8 +17,8 @@ class Stack:
 	def size(self):
 		return len(self.items)
 
-s = Stack()
-s.pop()
+# s = Stack()
+# s.pop()
 
 #s = Stack()
 
